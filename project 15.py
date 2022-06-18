@@ -1,13 +1,4 @@
-  a = [1, 3, 4, 7, 9];
-  c = []
-  j = len(a) - 1;
-   for (i = 0; i < len(a); i+=1) 
-  c[j] = a[i]
-  j-=1;
-
-
-
- a = [1, 3, 4, 7, 9];
+a = [1, 3, 4, 7, 9];
 def revers(a):
     """This function reverses the list."""
     c = []
